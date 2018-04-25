@@ -502,4 +502,4 @@ These can serve as fairly reliable guidelines:
   it will be impossible to make even simple tweaks to your templates without
   breaking the build.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-rails-testing' title='Testing in Rails'>Testing in Rails</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Testing in Rails</p>

@@ -7,3 +7,5 @@ languages:
 level: 1
 type:
   - resources
+
+parent_template: git@github.com:learn-co-curriculum/ruby-rails-testing.git
